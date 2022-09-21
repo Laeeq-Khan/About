@@ -6,7 +6,7 @@ subtitle: Lahore Pakistan. (+92)305-5466154. Develoer|Researcher
 
 profile:
   align: right
-  image: laeeqkhanniazi.jpeg.jpg
+  image: laeeqkhanniazi.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Computer Science, UET Lahore</p>
